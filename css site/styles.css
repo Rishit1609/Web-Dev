@@ -91,11 +91,13 @@ a
 }
 hr
 {
-    border-top: 7px dotted;
+   border-top: 7px dotted;
     width: 5%;
     color:#FAEEE0;
     margin: 100px auto;
-
+    border-left:none;
+    border-right: none;
+    border-bottom: none;
 }
 .btn {
     background: #fabf0d;
