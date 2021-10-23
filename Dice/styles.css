@@ -1,0 +1,56 @@
+body
+{
+  margin:0;
+}
+.container1 {
+  padding-top: 3%;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top:0;
+  margin-bottom:50px;
+  width:100%;
+  text-align: center;
+  padding-bottom:3%;
+  background-color:#dcf0ec;
+}
+.container2
+{
+  width: 70%;
+  margin: auto;
+  margin-bottom: 30px;
+  text-align: center;
+  padding-bottom:5%;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+.playertxt
+{
+  font-size:3rem;
+}
+h1 {
+  margin-top:0;
+  font-family: 'Handlee', cursive;
+  text-shadow: 5px 0 #46576e;
+  font-size: 8rem;
+  color: #b9475e;
+}
+
+p {
+  font-size: 2rem;
+  color: #1fa176;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 25%;
+}
+
+footer {
+  margin-top: 3%;
+  color: #316B83; 
+  text-align: center;
+  font-family: 'Oleo Script', cursive;
+}
